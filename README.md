@@ -1,6 +1,6 @@
 ![jomo_dotfiles](https://raw.githubusercontent.com/saveside/dotfiles/main/assets/dots.png)
 
-This is my personal repo for my Arch linux configurations.
+A gruvbox themed dotfiles.
 
 # Dependencies
 
