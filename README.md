@@ -15,7 +15,7 @@ This is my personal repo for my Arch linux configurations.
 | QT              | `Catppuccin Mocha`                                   |
 | Icons           | `papirus-dark`                                       |
 | Cursor          | `bibata`                                             |
-| File manager    | `pcmanfm-qt`                                         |
+| File manager    | `thunar`                                             |
 | Screenshot tool | `flameshot`                                          |
 | Polkit manager  | `lxsession`                                          |
 | Fonts           | `ttf-iosevka-nerd ttf-jetbrains-mono monaspace Neon` |
@@ -28,7 +28,7 @@ You can also use `yay -S --needed - < pkgs` to install all dependencies.
 Incomplete but should get you most things.
 
 ```bash
-chezmoi init https://github.com/xeome/dots
+chezmoi init https://github.com/saveside/dotfiles
 chezmoi apply -v
 # Optional if you want to get san francisco pro font
 mkdir -p ~/.fonts
@@ -43,8 +43,8 @@ rm -rf "sf-pro.zip" "monaspace-v1.000.zip"
 | Shortcut               | Action                             |
 | ---------------------- | ---------------------------------- |
 | Super + Return (enter) | Launch terminal (`alacritty`)      |
-| Super + E              | Launch file manager (`pcmanfm-qt`) |
-| Super + Q              | Launch web browser (`brave`)       |
+| Super + W              | Launch file manager (`thunar`)     |
+| Super + Q              | Launch web browser (`chromium`)    |
 | Super + Shift + C      | Close focused application          |
 | Super + Shift + R      | Restart window manager             |
 | Super + Shift + Q      | Quit window manager                |
