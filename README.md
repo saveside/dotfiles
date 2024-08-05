@@ -1,4 +1,4 @@
-![jomo_dotfiles](https://xeome.dev/unknown.png)
+![jomo_dotfiles](https://raw.githubusercontent.com/saveside/dotfiles/main/assets/dots.png)
 
 This is my personal repo for my Arch linux configurations.
 
@@ -53,4 +53,4 @@ rm -rf "sf-pro.zip" "monaspace-v1.000.zip"
 
 ## Screenshots
 
-![sway](assets/gruvbox_stacked.png)
+![sway](https://raw.githubusercontent.com/saveside/dotfiles/main/assets/Setup.png)
